@@ -1,0 +1,57 @@
+.main {
+    background-color: gainsboro;
+    border: 2px solid gray;
+    border-radius: 10px;
+    height: auto;
+    width: fit-content;
+    margin: 100px auto;
+}
+
+.numbtn {
+    padding: 10px 30px;
+    margin: 5px;
+    font-weight: 700;
+    font-size: larger;
+}
+
+.numbtn1 {
+    padding: 10px 34px;
+    margin: 5px;
+    font-weight: 700;
+    font-size: larger;
+}
+
+.numbtn2 {
+    padding: 10px 27px;
+    margin: 5px;
+    font-weight: 700;
+    font-size: larger;
+}
+
+.btn2 {
+    border-radius: 100px;
+    padding: 10px 30px;
+    margin: 5px;
+    font-weight: 700;
+    font-size: large;
+    background-color: red;
+    color: white;
+}
+.btn3 {
+    padding: 10px 75px;
+    margin: 5px;
+    font-weight: 700;
+    font-size: larger;
+}
+
+.calscreen > input {
+    padding: 10px 45px;
+    margin: 5px;
+    background-color: lightgreen;
+    color: blue;
+    font-size: larger;
+}
+
+.colorbtn {
+    color: maroon;
+}
